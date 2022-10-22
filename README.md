@@ -2,7 +2,7 @@
 ### I made this project in order to get a better understanding in Deep Learning. 
 <br> 
 
-Note: I am not really into C++, so the codes might be seen unefficient to some C++ experts
+Note: I am not really into C++, so the codes might be seen inefficient to some C++ experts
 
 
 ## About
