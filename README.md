@@ -26,7 +26,7 @@ Note: I am not really into C++, so the codes might be seen unefficient to some C
 - Learning rate: **0.007**
 - Loss: **0.000108905**
 - Accuracy: **%97.674**
-- Loss / Accuracy Graph: <br>
+- Loss / Accuracy Graph: <br> <br>
 ![This is an image](https://github.com/IsmailKonak/MLP-From-Scratch-CPP/blob/main/XOR_cpp_loss_accuracy.png)
 
 <br>
